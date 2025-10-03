@@ -31,17 +31,17 @@ Snake-Game/
 ├── index.html       # Main game file
 ├── sw.js            # Service worker for PWA (offline support)
 ├── manifest.json    # PWA manifest (for mobile installable app)
-├── audio/
-│   ├── eat.mp3      # Sound when snake eats food
-│   └── gameover.mp3 # Sound when game is over
+├
+├── eat.mp3      # Sound when snake eats food
+└── gameover.mp3 # Sound when game is over
 └── README.md        # This file
 
 🚀 How to Run Locally
 
 Clone this repository:
 
-git clone https://github.com/your-username/snake-game.git
-cd snake-game
+git clone https://github.com/your-username/snake_game.git
+cd snake_game
 
 
 Start a simple Python HTTP server (to avoid CORS issues with audio & PWA):
