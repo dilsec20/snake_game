@@ -41,6 +41,7 @@ Snake-Game/
 Clone this repository:
 
 git clone https://github.com/your-username/snake_game.git
+
 cd snake_game
 
 
