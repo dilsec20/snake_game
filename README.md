@@ -28,15 +28,25 @@ Stops at 100ms minimum
 📂 Project Structure
 Snake-Game/
 │
+
 ├── index.html       # Main game file
+
 ├── sw.js            # Service worker for PWA (offline support)
+
 ├── manifest.json    # PWA manifest (for mobile installable app)
-├
+
+
 ├── eat.mp3      # Sound when snake eats food
+
 └── gameover.mp3 # Sound when game is over
+
 └── README.md        # This file
 
-🚀 How to Run Locally
+#HOW TO PLAY 
+ ON Window download the zip file from the github and open the index file in the browser'
+ then game will start running . 
+
+#ON LINUX SYSTEM 
 
 Clone this repository:
 
