@@ -1,5 +1,9 @@
 🐍 Snake Game
 
+link to play the snake game 
+
+https://dilsec20.github.io/snake_game/snake.html
+
 A simple and fun Snake Game built with HTML, CSS, and JavaScript.
 Playable on both desktop and mobile devices with touch controls.
 
