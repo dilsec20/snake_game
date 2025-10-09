@@ -1,6 +1,6 @@
 🐍 Snake Game
 
-link to play the snake game 
+click on the below link and enjoy the game
 
 https://dilsec20.github.io/snake_game/snake.html
 
